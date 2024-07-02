@@ -1,7 +1,8 @@
 ## WOOJAE JO 👋
 <div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdnwo11" width="35%">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Jo-dv&show_icons=true&theme=transparent" width="40%">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdnwo11" width="32%">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Jo-dv&show_icons=true&theme=transparent" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-dv&layout=compact" width="29%">
 </div>
 
 ## TECH STACK
