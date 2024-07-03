@@ -18,7 +18,7 @@
 
 ## CONTACT 
 <div>
-  <p><h3><a href="whgjsgh11@naver.com">✉ whgjsgh11@naver.com</a></h3>
+  <p><h3><a href="mailto:whgjsgh11@naver.com">✉ whgjsgh11@naver.com</a></h3>
 </div>
 
 ## EDUCATIONS
