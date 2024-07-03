@@ -1,14 +1,30 @@
 ## WOOJAE JO 👋
+<div>
+  <h3>
+  안녕하세요! 커뮤니테이션 능력을 갖춘 백엔드 개발자 조우재입니다.
+  </h3>
+  <h3>
+  백엔드뿐 아니라 AI 및 임베디드 등 다양한 프로젝트 경험을 가지고 있습니다.<br>
+  설명하는 것을 좋아해 지식 전달자로서 다양한 SW 교육 경험을 가지고 있습니다.<br>
+  SW 교육 경험을 통한 뛰어난 커뮤니케이션 능력을 갖추고 있습니다.
+  </h3>
+</div>
+
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdnwo11" width="32%">  
   <img src="https://github-readme-stats.vercel.app/api?username=Jo-dv&show_icons=true&theme=transparent" width="38%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-dv&layout=compact" width="29%">
 </div>
 
+## CONTACT 
+<div>
+  <p><h3>✉ whgjsgh11@naver.com</h3>
+</div>
+
 ## EDUCATIONS
 <div align="left">
-  <p><h3>💻삼성 청년 SW 아카데미 10th 수료 2023.07 ~ 2024.06</h3>
-  <p><h3>🎓국립부경대학교 컴퓨터공학과 졸업 2020.02 ~ 2022.02</h3>
+  <p><h3>💻 삼성 청년 SW 아카데미 10th 수료 2023.07 ~ 2024.06</h3>
+  <p><h3>🎓 국립부경대학교 컴퓨터공학과 졸업 2020.02 ~ 2022.02</h3>
 </div>
 
 ## TECH STACK
