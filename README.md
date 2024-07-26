@@ -16,9 +16,13 @@
   <p><h3><a href="mailto:whgjsgh11@naver.com">✉ whgjsgh11@naver.com</a></h3>
 </div>
 
+## EXPERIENCES
+<div align="left">
+  <p><h3>💻 삼성 청년 SW 아카데미 10th 우수 교육생 수료 2023.07 ~ 2024.06</h3>
+</div>
+
 ## EDUCATIONS
 <div align="left">
-  <p><h3>💻 삼성 청년 SW 아카데미 10th 수료 2023.07 ~ 2024.06</h3>
   <p><h3>🎓 국립부경대학교 컴퓨터공학과 졸업 2020.02 ~ 2022.02</h3>
 </div>
 
