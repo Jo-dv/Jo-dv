@@ -7,8 +7,8 @@
 </div>
 
 <div align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdnwo11" width="35%">
-  <img src="http://mazandi.herokuapp.com/api?handle=whdnwo11&theme=warm" width="35%"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdnwo11" width="50%">
+  <img src="http://mazandi.herokuapp.com/api?handle=whdnwo11&theme=warm" width="50%"/>
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-dv&exclude_repo=Projects&layout=compact" width="30%">
