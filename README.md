@@ -11,8 +11,8 @@
   <img src="http://mazandi.herokuapp.com/api?handle=whdnwo11&theme=warm" width="45%"/>
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-dv&exclude_repo=Projects&layout=compact" width="40%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jo-dv&show_icons=true&theme=transparent" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-dv&exclude_repo=Projects&layout=compact" width="39%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jo-dv&show_icons=true&theme=transparent" width="51%">
 </div>
 
 ## CONTACT 
