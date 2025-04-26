@@ -29,7 +29,8 @@
 
 ## EDUCATIONS
 <div align="left">
-  <p><h3>🎓 국립부경대학교 컴퓨터공학과 졸업 2020.02 ~ 2022.02</h3>
+  <p><h3>🎓 국립부경대학교 컴퓨터공학과 졸업 2020.03 ~ 2022.02</h3>
+  <p><h3>🎓 동서대학교 컴퓨터공학부 중퇴 2017.03 ~ 2020.02</h3>
 </div>
 
 ## TECH STACK
@@ -41,6 +42,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
 ### DB
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?&style=for-the-badge&logoColor=white)
 ### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
